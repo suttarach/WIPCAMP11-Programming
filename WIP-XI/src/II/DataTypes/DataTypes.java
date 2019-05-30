@@ -16,6 +16,7 @@ public class DataTypes {
         String  name    = "Wippo";
         boolean online  = true;
         double  money   = 1120.50;
+        int a=1;
         
         System.out.println("number : " + number);
         System.out.println("name : " + name);
